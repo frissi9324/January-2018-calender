@@ -9,31 +9,25 @@ $(document).ready(function(){
 		alert("Incubate growth media for thaw.")
 	});//end of click
 	$("#twenty-second").click(function(){
-		alert("Thaw day. 130-18001 Suite 1213, Operators:P1:Kenda, P2:Umair, P3:Priscilla,0900 - P1+P2 stage suite," + 
-		  "0930: before 0930 P3 call in suite, be in suite at 0930 to assist P1"+ 
-		  "1000: start thaw.Target thaw incubation time at 1100.");
-    });//end of click
+		alert("Thaw day.");
+         });//end of click
 	$("#twenty-third").click(function(){
-		alert("Refeed and TrypLe Prep Operators: P1-Kenda, P2-Umair, P3-Jeff"
-		+ "Incubate growth media for Pass 1, anytime past 1500.- Priscilla assigned.");
+		alert("Refeed and TrypLe Prep");
 	});//end of click
 	$("#twenty-fourth").click(function(){
-		alert("Pass #1, Operators: P1-Kenda, P2-Seth, P3-Priscilla" +
-		"0800 - Kenda and Priscilla stage suite and BSC. At 0900start pass 1 and target incubation time of 1010" +
-		"Humidify incubators in viral suite if clean and line clearance done.");
+		alert("Pass #1");
 	});//end of click 
 	$("#twenty-fifth").click(function(){
 		alert("Incubate growth media for pass #2.")
 	});//end of click
 	$("#twenty-sixth").click(function(){
-		alert("Pass #2: operators: P1-Priscilla, P2-Ty, P3- Altara" +
-		"P1 stage suite and bsc at 0800. Start Pass 2 at 0900 and target incubation time of 1111");
+		alert("Pass #2");
 	});
 	$("#twenty-nineth").click(function(){
-		alert("Pass #3 Operators: P1-Kenda, P2-Umair, P3-Ty.");
+		alert("Pass #3");
 	});
 	$("#thirtieth").click(function(){
-		alert("Incubate media for Pass 4 Part#: 60.238 Lot #:18001.Anytime past three.");
+		alert("Incubate media for Pass 4");
 	});
 	$("#thirty-first").click(function(){
 		alert("Pass #4");
