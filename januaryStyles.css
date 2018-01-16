@@ -1,0 +1,43 @@
+body{
+	background:url("images/betterdays.jpg")no-repeat;
+	background-size: cover;
+}
+#calender{
+	margin: 0 auto;
+	width: 85%;
+}
+.box{
+	width:150px;
+	height:120px;
+	background-color:#f44242;
+	float:left;
+	padding:20px;
+	border:solid black 2px;
+	
+}
+header{
+	text-align:center;
+	font-family: "URW Chancery", cursive;
+	color: white;
+}
+#first,#second,#third,#fourth,#fifth{
+	background-color:#9ad3de;
+}
+#sixth,#seventh,#eigth,#ninth,#tenth{
+	background-color:#e3e3e3;
+}
+#eleventh,#twelfth,#thirteenth,#fourteenth,#fifthteenth{
+	background-color:#9ad3de;
+}
+#sixteenth,#seventeenth,#eighteenth,#nineteenth,#twentieth{
+	background-color:#e3e3e3;
+}
+#twenty-first,#twenty-second,#twenty-third,#twenty-fourth,#twenty-fifth{
+	background-color:#9ad3de;
+}
+#twenty-sixth,#twenty-seventh,#twenty-eighth,#twenty-nineth,#thirtieth{
+	background-color:#e3e3e3;
+}
+#thirty-first{
+	background-color:#9ad3de;
+}
